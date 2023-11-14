@@ -21,7 +21,7 @@
 *.zip
 
 # Logs and databases #
-######################
+###################### ***************************
 *.log
 *.sql
 *.sqlite
@@ -35,4 +35,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-.html
